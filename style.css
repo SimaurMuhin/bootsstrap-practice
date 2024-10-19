@@ -1,0 +1,36 @@
+body{
+    background-color: #0d1224;
+    color: #e9ecef;
+}
+
+.section{
+
+    padding: 45px;
+
+}
+
+h5{
+    color: #5e72e4;
+    font-weight: 900;
+}
+
+.card{
+    background-color: #0d1224;
+    border-radius: 5px;
+}
+.w-100{
+    border-radius: 6px;
+}
+
+h2{
+    color: #3c236e;
+}
+
+
+/* hover section */
+
+:hover.card{
+box-shadow: #e9ecef;
+color: aliceblue;
+
+}
